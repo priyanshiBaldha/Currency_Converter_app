@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Screenshot/Currency Convertor Cover.jpg" width="220px">
+<img src="./assets/Screenshot/Currency Convertor Cover.jpg" width="520px">
 
 
 # **Currency Convertor App**
@@ -29,12 +29,6 @@ In This app user can search any currency and convert to another any currency eas
 
 <br><br>
 
-<div align="center">
-## 📽️ GIF
-<img align="left" src="./assets/Screenshot/SR.mp4" width="220px">
-</div>
-
-<br><br
 
 <div align="center">
 
