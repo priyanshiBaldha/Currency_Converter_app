@@ -4,7 +4,7 @@
 
 
 # **Currency Convertor App**
-In This app user can search any currency and convert to another any currency easily.
+In this app user can search any currency and convert to another any currency easily.
 
 ---
 </div>
@@ -25,6 +25,12 @@ In This app user can search any currency and convert to another any currency eas
 <img align="left" src="./assets/Screenshot/s3.jpg" width="220px">
 <img align="left" src="./assets/Screenshot/s4.jpg" width="220px">
 <img src="./assets/Screenshot/s5.jpg" width="220px">
+
+## 📽️ GIF
+
+
+https://user-images.githubusercontent.com/113037698/235308076-82dff573-8267-404a-a6db-937b0cd7aad8.mp4
+
 
 
 <br><br>
